@@ -1,9 +1,22 @@
 {
   "name": "threejs-recorder",
-  "version": "1.0.3",
+  "version": "1.1.2",
   "type": "module",
   "main": "CanvasRecorder.ts",
   "module": "CanvasRecorder.ts",
+  "license": "MIT",
+  "keywords": [
+    "threejs",
+    "recorder",
+    "canvas",
+    "video",
+    "animation",
+    "media",
+    "canvas to video",
+    "canvas to video threejs",
+    "threejs recorder",
+    "r3f"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Hammad-hab/Threejs-Recorder"
