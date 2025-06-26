@@ -1,12 +1,12 @@
 {
   "name": "threejs-recorder",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "type": "module",
   "main": "CanvasRecorder.ts",
   "module": "CanvasRecorder.ts",
-  "scripts": {
-    "dev": "vite --force",
-    "build": "vite build"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hammad-hab/Threejs-Recorder"
   },
   "exports": {
     ".": {

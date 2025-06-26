@@ -1,2 +1,7 @@
 /src
 /public
+/node_modules
+/"
+/vite.config.js
+/pnpm-lock.yaml
+/threejs-recorder-0.0.0.tgz

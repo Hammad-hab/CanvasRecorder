@@ -13,19 +13,19 @@ A TypeScript utility for recording canvas animations, particularly designed for 
 
 ```bash
 # Using npm
-npm install canvas-recorder
+npm install threejs-recorder
 
 # Using yarn
-yarn add canvas-recorder
+yarn add threejs-recorder
 
 # Using pnpm
-pnpm add canvas-recorder
+pnpm add threejs-recorder
 ```
 
 ## Usage
 
 ```typescript
-import CanvasRecorder from './CanvasRecorder';
+import CanvasRecorder from 'threejs-recorder';
 
 // Get your canvas element
 const canvas = document.querySelector('canvas');

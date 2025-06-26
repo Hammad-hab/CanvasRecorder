@@ -3,7 +3,6 @@
 /node_modules
 .DS_Store
 /src/
-/package.json
 vite.config.js
 *.tgz
 pnpm-lock.yaml
