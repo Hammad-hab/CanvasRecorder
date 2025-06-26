@@ -70,3 +70,4 @@ class CanvasRecorder {
 }
 
 export default CanvasRecorder
+export { CanvasRecorder }
